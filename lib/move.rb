@@ -1,5 +1,5 @@
 def  move(board, position, char = "X")
-  board[index] = current_player 
+  board[index] = current_player
 end
 
 def input_to_index(user_input)
